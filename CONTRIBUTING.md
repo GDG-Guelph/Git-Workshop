@@ -10,9 +10,10 @@ Welcome! This project is designed for first-time contributors.
 ```json
 {
   "name": "Your Name",
+  "website": "https://yourwebsite.com/",
   "linkedIn": "https://linkedin.com/in/yourprofile",
   "gitHub": "https://github.com/yourusername",
-  "graduationYear": "2027",
+  "graduationYear": "2034",
   "professionalEmail": "you@email.com"
 }
 ```
